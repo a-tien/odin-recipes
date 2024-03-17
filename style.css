@@ -1,0 +1,29 @@
+body {
+    background-color: lemonchiffon;
+    padding: 1rem;
+    max-width: 700px;
+    margin: 16px auto;
+    /* max-width: 10009px; */
+}
+
+div {
+    padding: 30px;
+    text-align: center;
+    color:chocolate;
+}
+
+h1 {
+    background-color: white;
+}
+
+.list {
+    background-color:darksalmon;
+}
+
+.list a {
+    display: block;
+    color: white;
+    padding: 0.5rem;
+    font-weight: bold;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
